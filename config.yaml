@@ -1,0 +1,11 @@
+Github:
+  Token: ''
+
+Postgres:
+  username: ''
+  password: ''
+  port: 5432
+  database: ''
+
+Parameters:
+  query_date: '' #If left empty, the earliest date of the data would be 6months from today
