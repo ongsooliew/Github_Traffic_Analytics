@@ -8,4 +8,4 @@ Postgres:
   database: ''
 
 Parameters:
-  query_date: '' #If left empty, the earliest date of the data would be 6months from today
+  query_date: '' #YYYY-MM-DD....If left empty, the earliest date of the data would be 6months from today
