@@ -13,6 +13,6 @@
 
 
 
-Do Note that Github has changed the way it captures the committer's fields. A lot of records ended up with "Github" as the default committer name. To make the assignment meaningful, I have elected to subsitute those values with the values from "authorname" field instead.  
+Do Note that Github has changed the way it captures the committer's fields. A lot of records ended up with "Github" as the default committer name. To make the assignment meaningful, I have elected to substitute those values with the values from "authorname" field instead.  
 
 For more details, refer to https://github.community/t/authorship-of-merge-commits-made-by-github-apps-changed/2971/21
