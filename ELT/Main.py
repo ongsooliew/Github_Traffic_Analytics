@@ -123,7 +123,5 @@ if __name__ == "__main__":
 
     if query_date != '': #Use the query date provided by user, if any
         data_cleaning(query_date)
-        print('done')
     else:
         data_cleaning(SixMonth_str) #By default, the earliest date of the data would be 6months from today
-        print('6months')
